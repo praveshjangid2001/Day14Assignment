@@ -1,6 +1,7 @@
 ## Day14Assignment
 
-## Hosted Link: https://praveshjangid2001.github.io/Day14Assignment/
+## Hosted Link: 
+https://praveshjangid2001.github.io/Day14Assignment/
 
 ## Step 1: HTML
 
